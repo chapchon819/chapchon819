@@ -13,11 +13,11 @@
   </a>
 </p>
 
-## Learning
+## 📝 Learning
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ruby,rails)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github)](https://skillicons.dev)
 
-## Status
+## 🐈 Status
 <p align="left">
 <img alt="profile-details" height="190px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chapchon819&theme=buefy&text_bold&border_color=#e4e2e2" />
 </p>
@@ -26,4 +26,5 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chapchon819&theme=buefy&layout=compact" />
 </p>
 
+## 🌱 Contributions
 ![](https://raw.githubusercontent.com/chapchon819/chapchon819/output/github-contribution-grid-snake.svg)
