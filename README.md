@@ -13,7 +13,7 @@
   </a>
 </p>
 
-## 📝 Learning
+## 📝 Now Learning
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby,rails,react,docker,git,github,tailwind,bootstrap)](https://skillicons.dev)
 
 ## 🐈 Status
