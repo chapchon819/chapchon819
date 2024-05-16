@@ -14,7 +14,7 @@
 </p>
 
 ## 📝 Now Learning
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby,rails,docker,git,github,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby,rails,docker,git,github,tailwind)](https://skillicons.dev)
 
 ## 🐈 Status
 <p align="left">
